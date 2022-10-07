@@ -1,6 +1,6 @@
 # Queres ser o meu padrinho?
 
-Criado com [Next.js](https://nextjs.org/).
+> Criado com [Next.js](https://nextjs.org/), Typescript e Tailwindcss.
 
 ## O que é?
 
@@ -9,7 +9,9 @@ Então só existe uma opção, aceitar ser padrinho!
 
 ## Para Começar
 
-Como executar o projeto localmente
+https://queres-ser-padrinho.vercel.app/
+
+Ou, Como executar o projeto localmente
 
 ```bash
 npm run dev
