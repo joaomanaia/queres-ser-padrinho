@@ -1,5 +1,5 @@
-import NoButton from "./no-button";
-import YesButton from "./yes-button";
+import NoButton from "../components/no-button";
+import YesButton from "../components/yes-button";
 
 export default function Page() {
   return (
